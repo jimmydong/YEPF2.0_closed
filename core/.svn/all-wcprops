@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/YEPF/!svn/ver/340/_YEPF2.0/core
+END
+DbMongo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/YEPF/!svn/ver/255/_YEPF2.0/core/DbMongo.class.php
+END
+DB.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/YEPF/!svn/ver/259/_YEPF2.0/core/DB.class.php
+END
+SmtpMail.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/YEPF/!svn/ver/232/_YEPF2.0/core/SmtpMail.class.php
+END
+Debug.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/YEPF/!svn/ver/340/_YEPF2.0/core/Debug.class.php
+END
+MailInterface.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/YEPF/!svn/ver/232/_YEPF2.0/core/MailInterface.class.php
+END
+Cache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/YEPF/!svn/ver/339/_YEPF2.0/core/Cache.class.php
+END
+Mysql.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/YEPF/!svn/ver/258/_YEPF2.0/core/Mysql.class.php
+END
+Images.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/YEPF/!svn/ver/302/_YEPF2.0/core/Images.class.php
+END
+Curl.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/YEPF/!svn/ver/232/_YEPF2.0/core/Curl.class.php
+END
+Memcached.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/YEPF/!svn/ver/336/_YEPF2.0/core/Memcached.class.php
+END
+SphinxClient.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/YEPF/!svn/ver/232/_YEPF2.0/core/SphinxClient.class.php
+END
+Cookie.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/YEPF/!svn/ver/232/_YEPF2.0/core/Cookie.class.php
+END
+Template.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/YEPF/!svn/ver/330/_YEPF2.0/core/Template.class.php
+END
+CommCache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/YEPF/!svn/ver/232/_YEPF2.0/core/CommCache.class.php
+END
+Log.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/YEPF/!svn/ver/232/_YEPF2.0/core/Log.class.php
+END
+Utilyty.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/YEPF/!svn/ver/232/_YEPF2.0/core/Utilyty.class.php
+END
+CacheInterface.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/YEPF/!svn/ver/232/_YEPF2.0/core/CacheInterface.class.php
+END
